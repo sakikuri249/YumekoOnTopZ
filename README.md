@@ -10,4 +10,10 @@
 - กาวพืช (Glue Price)
 - CS:BO (Yumeko.cc)
 
+(Other Script)
+- BoomBox Hub (._MARYBOOMBOX)
+- BOOMBOX EXTRA LOUD (._BOOMBOX FUCKER)
+
+@Sn1tchzz
+
 ===========================================
