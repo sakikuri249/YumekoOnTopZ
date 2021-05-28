@@ -6,7 +6,7 @@
 (Soon 5 Games)
 - Prison Life
 - Siam Cafe (Dek siam)
-- Blox Fruit
+- Arsenal (Legit)
 - กาวพืช (Glue Price)
 - CS:BO (Yumeko.cc)
 
