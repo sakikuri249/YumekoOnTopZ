@@ -1,7 +1,7 @@
 # Yumek00 SCRIPT HUB (BETA)
 2 GAMES
-- บ้านใต้
-- จุดพักใจ
+- บ้านใต้ (หยุดพัมนาแล้ว)
+- ศาลาพักใจ
 
 (Soon 5 Games)
 - Prison Life
