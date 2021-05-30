@@ -1,5 +1,5 @@
 # Yumek00 SCRIPT HUB (BETA)
-4 GAMES (Right Now
+4 GAMES (Right Now)
 - บ้านนอก (บ้านใต้ Remake) (Soon)
 - ศาลาพักใจ
 - บางบาร์
