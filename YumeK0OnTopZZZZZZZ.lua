@@ -9,7 +9,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/sakikuri249/YumekoOnT
 elseif game.PlaceId == 5388509011 then 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/sakikuri249/YumekoOnTopZ/main/Vibe%20NYC.lua"))()
 elseif game.PlaceId == 6750972108 then 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/sakikuri249/YumekoOnTopZ/main/BangBar%20Vibe.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sakikuri249/YumekoOnTopZ/main/Bangbar.lua"))()
 else
     game.Players.LocalPlayer:Kick("GAME NOT SUPPORT This HUB !!!")
 end
