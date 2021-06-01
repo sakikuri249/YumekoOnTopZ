@@ -12,6 +12,8 @@ elseif game.PlaceId == 6750972108 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/sakikuri249/YumekoOnTopZ/main/Bangbar.lua"))()
 elseif game.PlaceId == 155615604 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/sakikuri249/YumekoOnTopZ/main/Prison-Life.lua"))()
+elseif game.PlaceId == 6876139165 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sakikuri249/YumekoOnTopZ/main/BanNok.lua"))()
 else
     game.Players.LocalPlayer:Kick("GAME NOT SUPPORT This HUB !!!")
 end
