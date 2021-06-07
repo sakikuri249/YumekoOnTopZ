@@ -9,6 +9,7 @@
 (Soon 2 ames)
 - Siam Cafe (Dek siam)
 - Arsenal (Legit)
+- Citythailand 2
 
 @Sn1tchzz
 
