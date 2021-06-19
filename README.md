@@ -6,8 +6,8 @@
 - Vibe NYC
 - Prison Life
 
-(Soon 2 ames)
-- Siam Cafe (Dek siam)
+(Soon 4 Games)
+- City Banna
 - Arsenal (Legit)
 - Citythailand 2
 
