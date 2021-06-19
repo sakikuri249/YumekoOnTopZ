@@ -1,17 +1,15 @@
 # Yumek00 SCRIPT HUB (BETA)
 **The best Hub For Thai Server and FPS Games.**
 
-5 GAMES (Right Now)
-- บ้านนอก (บ้านใต้ Remake) (Soon)
+4 GAMES (Right Now)
 - ศาลาพักใจ
 - บางบาร์
 - Vibe NYC
 - Prison Life
 
-(Soon 4 Games)
+(Soon 2 Games)
 - City Banna
 - Arsenal (Legit)
-- Citythailand 2
 
 @Sn1tchzz
 
