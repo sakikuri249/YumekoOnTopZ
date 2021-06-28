@@ -8,9 +8,12 @@
 - Prison Life
 - Shoot Out! (Coming Soon.)
 
-(Soon 2 Games)
+(Soon 5 Games)
 - City Banna
 - Arsenal (Legit)
+- Blox Fruit 
+- Nok Piece
+- Glue Piece
 
 @Sn1tchzz
 
